@@ -1,5 +1,5 @@
 # AI-Notebooks
-Colab Notebooks for Tutorials from Marktechpost
+**Colab Notebooks for Tutorials from Marktechpost**
 
 ▶ A Step-by-Step Coding Implementation of an Agent2Agent Framework for Collaborative and Critique-Driven AI Problem Solving with Consensus-Building [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/agent2agent_collaboration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-step-by-step-coding-implementation-of-an-agent2agent-framework-for-collaborative-and-critique-driven-ai-problem-solving-with-consensus-building/)
 
