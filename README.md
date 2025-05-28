@@ -1,6 +1,8 @@
 # AI-Notebooks
 **Colab Notebooks for Tutorials from Marktechpost**
 
+▶ A Coding Implementation to Build an Interactive Transcript and PDF Analysis with Lyzr Chatbot Framework [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Lyzr_Chatbot_Framework_Implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-coding-implementation-to-build-an-interactive-transcript-and-pdf-analysis-with-lyzr-chatbot-framework/)
+
 ▶ A Step-by-Step Coding Implementation of an Agent2Agent Framework for Collaborative and Critique-Driven AI Problem Solving with Consensus-Building [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/agent2agent_collaboration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-step-by-step-coding-implementation-of-an-agent2agent-framework-for-collaborative-and-critique-driven-ai-problem-solving-with-consensus-building/)
 
 ▶ A Coding Guide to Building a Customizable Multi-Tool AI Agent with LangGraph and Claude for Dynamic Agent Creation [Notebook](https://github.com/Marktechpost/AINotebooks/blob/main/Customizable_MultiTool_AI_Agent_with_Claude_Marktechpost%20(1).ipynb) [Tutorial](https://www.marktechpost.com/2025/05/24/step-by-step-guide-to-build-a-customizable-multi-tool-ai-agent-with-langgraph-and-claude-for-dynamic-agent-creation/)
