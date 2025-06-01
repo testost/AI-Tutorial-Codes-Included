@@ -9,7 +9,7 @@ Index
 
 # LLMs and other AI
 
-[Go to #Agentic AI and Agents section](#Agentic-AI-and-Agents)
+[Go to Agentic AI and Agents section](#Agentic-AI-and-Agents)
 
 ▶ A Coding Guide to Building a Scalable Multi-Agent Communication Systems Using Agent Communication Protocol (ACP)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/A_Coding_Guide_to_ACP_Systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/31/a-coding-guide-to-building-a-scalable-multi-agent-communication-systems-using-agent-communication-protocol-acp/)
 
