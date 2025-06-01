@@ -3,11 +3,11 @@
 
 ### Index
 
-### Agentic AI and Agents
+* Agentic AI and Agents
 
-### MCPs Guides
+* MCPs Guides
 
-### LLMs and other AI
+* LLMs and other AI
 
 [Go to Agentic AI and Agents section](#Agentic-AI-and-Agents)
 
