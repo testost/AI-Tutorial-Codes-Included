@@ -1,9 +1,9 @@
 # AI-Tutorials and Notebooks
 **Colab Notebooks for Tutorials from Marktechpost**
 
-*[Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
-*Agentic AI and Agents
-*Agentic AI and Agents
+* [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
+* Agentic AI and Agents
+* Agentic AI and Agents
 
 ## Agentic AI and Agents
 
