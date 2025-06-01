@@ -1,5 +1,7 @@
 # AI-Tutorials and Notebooks
 
+**Index**
+
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
 * [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#llms-and-other-ai-section)
@@ -19,6 +21,8 @@
 ▶ A Coding Implementation to Build an AI Agent with Live Python Execution and Automated Validation [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Live_Python_Execution_and_Validation_Agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/25/a-coding-implementation-to-build-an-ai-agent-with-live-python-execution-and-automated-validation/)
 
 ▶ A Comprehensive Coding Guide to Crafting Advanced Round-Robin Multi-Agent Workflows with Microsoft AutoGen  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Synthetic_Data_Creation.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/23/a-comprehensive-coding-guide-to-crafting-advanced-round-robin-multi-agent-workflows-with-microsoft-autogen/)
+
+▶ A Coding Implementation of an Intelligent AI Assistant with Jina Search, LangChain, and Gemini for Real-Time Information Retrieval [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Jina_LangChain_Gemini_AI_Assistant_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/01/a-coding-implementation-of-an-intelligent-ai-assistant-with-jina-search-langchain-and-gemini-for-real-time-information-retrieval/)
 
 ---
 
