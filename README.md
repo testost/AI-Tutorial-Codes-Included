@@ -34,6 +34,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ A Coding Guide Implementing ScrapeGraph and Gemini AI for an Automated, Scalable, Insight-Driven Competitive Intelligence and Market Analysis Workflow  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Competitive_Analysis_with_ScrapeGraph_Gemini_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/02/a-coding-guide-implementing-scrapegraph-and-gemini-ai-for-an-automated-scalable-insight-driven-competitive-intelligence-and-market-analysis-workflow/)
+
 ▶ A Coding Implementation to Build an Interactive Transcript and PDF Analysis with Lyzr Chatbot Framework [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Lyzr_Chatbot_Framework_Implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-coding-implementation-to-build-an-interactive-transcript-and-pdf-analysis-with-lyzr-chatbot-framework/)
 
 ▶ Step-by-Step Guide to Creating Synthetic Data Using the Synthetic Data Vault (SDV)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/AutoGen_TeamTool_RoundRobin_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/25/step-by-step-guide-to-creating-synthetic-data-using-the-synthetic-data-vault-sdv/)
