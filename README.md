@@ -1,4 +1,4 @@
-# AI-Tutorials and Notebooks
+# AI-Tutorials/Implementations and Notebooks
 
 **Index**
 
