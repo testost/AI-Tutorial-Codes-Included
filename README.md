@@ -10,6 +10,8 @@
 
 ### Agentic AI and Agents
 
+▶ Hands-On Guide: Getting started with Mistral Agents API [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Getting_Started_with_Mistral_Agents_API.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/03/hands-on-guide-getting-started-with-mistral-agents-api/)
+
 ▶ A Coding Guide to Building a Scalable Multi-Agent Communication Systems Using Agent Communication Protocol (ACP)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/A_Coding_Guide_to_ACP_Systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/31/a-coding-guide-to-building-a-scalable-multi-agent-communication-systems-using-agent-communication-protocol-acp/)
 
 ▶ A Coding Guide for Building a Self-Improving AI Agent Using Google’s Gemini API with Intelligent Adaptation Features [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Self_Improving_AI_Agent_with_Gemini_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/29/a-coding-guide-for-building-a-self-improving-ai-agent-using-googles-gemini-api-with-intelligent-adaptation-features/)
