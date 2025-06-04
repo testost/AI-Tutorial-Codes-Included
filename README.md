@@ -10,6 +10,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Implementation to Build an Advanced Web Intelligence Agent with Tavily and Gemini AI [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/smartwebagent_tavily_gemini_webintelligence_marktechpost2.py) [Tutorial](https://www.marktechpost.com/2025/06/03/a-coding-implementation-to-build-an-advanced-web-intelligence-agent-with-tavily-and-gemini-ai/)
+
 ▶ Hands-On Guide: Getting started with Mistral Agents API [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Getting_Started_with_Mistral_Agents_API.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/03/hands-on-guide-getting-started-with-mistral-agents-api/)
 
 ▶ A Coding Guide to Building a Scalable Multi-Agent Communication Systems Using Agent Communication Protocol (ACP)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/A_Coding_Guide_to_ACP_Systems_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/31/a-coding-guide-to-building-a-scalable-multi-agent-communication-systems-using-agent-communication-protocol-acp/)
