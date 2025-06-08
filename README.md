@@ -36,6 +36,8 @@
 
 ### MCPs Guides 
 
+▶ A Code Implementation to Building a Context-Aware AI Assistant in Google Colab Using LangChain, LangGraph, Gemini Pro, and Model Context Protocol (MCP) Principles with Tool Integration Support [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Context_Aware_Assistant_MCP_Gemini_LangChain_LangGraph_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/04/04/a-code-implementation-to-building-a-context-aware-ai-assistant-in-google-colab-using-langchain-langgraph-gemini-pro-and-model-context-protocol-mcp-principles-with-tool-integration-support/)
+
 ▶ Guide to Using the Desktop Commander MCP Server [Tutorial](https://www.marktechpost.com/2025/06/01/guide-to-using-the-desktop-commander-mcp-server/)
 
 ---
