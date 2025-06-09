@@ -12,6 +12,8 @@
 
 ▶ How to Build an Asynchronous AI Agent Network Using Gemini for Research, Analysis, and Validation Tasks [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/gemini_agent_network_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/08/how-to-build-an-asynchronous-ai-agent-network-using-gemini-for-research-analysis-and-validation-tasks/)
 
+▶ How to Create Smart Multi-Agent Workflows Using the Mistral Agents API’s Handoffs Feature [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/agent_orchestration_with_mistral_agents_api.py) [Tutorial](https://www.marktechpost.com/2025/06/09/how-to-create-smart-multi-agent-workflows-using-the-mistral-agents-apis-handoffs-feature/)
+
 ▶ How to Enable Function Calling in Mistral Agents Using the Standard JSON Schema Format [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/how%20to%20enable%20function%20calling%20in%20Mistral%20Agents.py) [Tutorial](https://www.marktechpost.com/2025/06/08/how-to-enable-function-calling-in-mistral-agents-using-the-standard-json-schema-format/)
 
 ▶ A Step-by-Step Coding Guide to Building an Iterative AI Workflow Agent Using LangGraph and Gemini [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/GraphAIAgent_LangGraph_Gemini_Workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/05/a-step-by-step-coding-guide-to-building-an-iterative-ai-workflow-agent-using-langgraph-and-gemini/)
