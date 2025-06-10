@@ -1,14 +1,17 @@
 # AI-Tutorials/Implementations and Notebooks
 
-**Index**
+### Index 
 
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
 * [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#llms-and-other-ai-section)
 
+---
   
 
 ### Agentic AI and Agents
+
+▶ Build a Gemini-Powered DataFrame Agent for Natural Language Data Analysis with Pandas and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Gemini_Pandas_Agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/10/build-a-gemini-powered-dataframe-agent-for-natural-language-data-analysis-with-pandas-and-langchain/)
 
 ▶ How to Build an Asynchronous AI Agent Network Using Gemini for Research, Analysis, and Validation Tasks [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/gemini_agent_network_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/08/how-to-build-an-asynchronous-ai-agent-network-using-gemini-for-research-analysis-and-validation-tasks/)
 
