@@ -57,6 +57,8 @@
 
 ▶ A Comprehensive Coding Tutorial for Advanced SerpAPI Integration with Google Gemini-1.5-Flash for Advanced Analytics [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_serpapi_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/06/a-comprehensive-coding-tutorial-for-advanced-serpapi-integration-with-google-gemini-1-5-flash-for-advanced-analytics/)
 
+▶ Build a Secure AI Code Execution Workflow Using Daytona SDK [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/daytona_secure_ai_code_execution_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/12/build-a-secure-ai-code-execution-workflow-using-daytona-sdk/)
+
 ▶ A Coding Guide Implementing ScrapeGraph and Gemini AI for an Automated, Scalable, Insight-Driven Competitive Intelligence and Market Analysis Workflow  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Competitive_Analysis_with_ScrapeGraph_Gemini_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/02/a-coding-guide-implementing-scrapegraph-and-gemini-ai-for-an-automated-scalable-insight-driven-competitive-intelligence-and-market-analysis-workflow/)
 
 ▶ A Coding Implementation to Build an Interactive Transcript and PDF Analysis with Lyzr Chatbot Framework [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Lyzr_Chatbot_Framework_Implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/27/a-coding-implementation-to-build-an-interactive-transcript-and-pdf-analysis-with-lyzr-chatbot-framework/)
