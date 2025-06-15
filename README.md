@@ -55,6 +55,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Building AI-Powered Applications Using the Plan → Files → Code Workflow in TinyDev [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/tinydev_gemini_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/14/building-ai-powered-applications-using-the-plan-%e2%86%92-files-%e2%86%92-code-workflow-in-tinydev/)
+
 ▶ A Comprehensive Coding Tutorial for Advanced SerpAPI Integration with Google Gemini-1.5-Flash for Advanced Analytics [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_serpapi_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/06/a-comprehensive-coding-tutorial-for-advanced-serpapi-integration-with-google-gemini-1-5-flash-for-advanced-analytics/)
 
 ▶ Build a Secure AI Code Execution Workflow Using Daytona SDK [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/daytona_secure_ai_code_execution_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/12/build-a-secure-ai-code-execution-workflow-using-daytona-sdk/)
