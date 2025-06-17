@@ -9,7 +9,8 @@ This repo demonstrates a minimal A2A (Agent-to-Agent) agent implementation using
 🚀 Quick Start
 1. Clone the Repository
 ```
-git clone https://github.com/mohd-arham-islam/A2A-simple-agent.git
+git clone https://github.com/Marktechpost/AI-Notebooks.git
+
 ```
 2. Set Up Environment
 We recommend using uv — a modern Python package manager — for fast setup.
