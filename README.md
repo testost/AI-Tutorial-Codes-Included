@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Use python-A2A to Create and Connect Financial Agents with Google’s Agent-to-Agent (A2A) Protocol [Notebook-inflation_agent.py](https://github.com/Marktechpost/AI-Notebooks/blob/main/inflation_agent.py) [Notebook-network.ipynb](https://github.com/Marktechpost/AI-Notebooks/blob/main/network.ipynb) [Notebook-emi_agent.py](https://github.com/Marktechpost/AI-Notebooks/blob/main/emi_agent.py)  [Tutorial](https://www.marktechpost.com/2025/06/16/how-to-use-python-a2a-to-create-and-connect-financial-agents-with-googles-agent-to-agent-a2a-protocol/)
+
 ▶ Develop a Multi-Tool AI Agent with Secure Python Execution using Riza and Gemini [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/Agents/Agentic-AI/Riza_Gemini_Agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/11/develop-a-multi-tool-ai-agent-with-secure-python-execution-using-riza-and-gemini/)
 
 ▶ Build a Gemini-Powered DataFrame Agent for Natural Language Data Analysis with Pandas and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Gemini_Pandas_Agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/10/build-a-gemini-powered-dataframe-agent-for-natural-language-data-analysis-with-pandas-and-langchain/)
