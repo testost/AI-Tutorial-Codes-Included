@@ -57,6 +57,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ How to Build an Advanced BrightData Web Scraper with Google Gemini for AI-Powered Data Extraction [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Enhanced_BrightData_Gemini_Scraper_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/18/how-to-build-an-advanced-brightdata-web-scraper-with-google-gemini-for-ai-powered-data-extraction/)
+
 ▶ Building High-Performance Financial Analytics Pipelines with Polars: Lazy Evaluation, Advanced Expressions, and SQL Integration [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/polars_sql_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/17/building-high-performance-financial-analytics-pipelines-with-polars-lazy-evaluation-advanced-expressions-and-sql-integration/)
 
 ▶ Building AI-Powered Applications Using the Plan → Files → Code Workflow in TinyDev [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/tinydev_gemini_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/14/building-ai-powered-applications-using-the-plan-%e2%86%92-files-%e2%86%92-code-workflow-in-tinydev/)
