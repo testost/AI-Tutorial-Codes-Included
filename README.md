@@ -57,6 +57,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Building High-Performance Financial Analytics Pipelines with Polars: Lazy Evaluation, Advanced Expressions, and SQL Integration [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/polars_sql_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/17/building-high-performance-financial-analytics-pipelines-with-polars-lazy-evaluation-advanced-expressions-and-sql-integration/)
+
 ▶ Building AI-Powered Applications Using the Plan → Files → Code Workflow in TinyDev [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/tinydev_gemini_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/14/building-ai-powered-applications-using-the-plan-%e2%86%92-files-%e2%86%92-code-workflow-in-tinydev/)
 
 ▶ A Comprehensive Coding Tutorial for Advanced SerpAPI Integration with Google Gemini-1.5-Flash for Advanced Analytics [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_serpapi_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/06/a-comprehensive-coding-tutorial-for-advanced-serpapi-integration-with-google-gemini-1-5-flash-for-advanced-analytics/)
