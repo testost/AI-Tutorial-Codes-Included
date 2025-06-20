@@ -13,6 +13,8 @@
 
 ▶ How to Build an Advanced BrightData Web Scraper with Google Gemini for AI-Powered Data Extraction [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Enhanced_BrightData_Gemini_Scraper_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/18/how-to-build-an-advanced-brightdata-web-scraper-with-google-gemini-for-ai-powered-data-extraction/)
 
+▶ Build an Intelligent Multi-Tool AI Agent Interface Using Streamlit for Seamless Real-Time Interaction [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/streamlit_ai_agent_multitool_interface_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/20/build-an-intelligent-multi-tool-ai-agent-interface-using-streamlit-for-seamless-real-time-interaction/)
+
 ▶ How to Use python-A2A to Create and Connect Financial Agents with Google’s Agent-to-Agent (A2A) Protocol [Notebook-inflation_agent.py](https://github.com/Marktechpost/AI-Notebooks/blob/main/inflation_agent.py) [Notebook-network.ipynb](https://github.com/Marktechpost/AI-Notebooks/blob/main/network.ipynb) [Notebook-emi_agent.py](https://github.com/Marktechpost/AI-Notebooks/blob/main/emi_agent.py)  [Tutorial](https://www.marktechpost.com/2025/06/16/how-to-use-python-a2a-to-create-and-connect-financial-agents-with-googles-agent-to-agent-a2a-protocol/)
 
 ▶ Develop a Multi-Tool AI Agent with Secure Python Execution using Riza and Gemini [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/Agents/Agentic-AI/Riza_Gemini_Agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/11/develop-a-multi-tool-ai-agent-with-secure-python-execution-using-riza-and-gemini/)
