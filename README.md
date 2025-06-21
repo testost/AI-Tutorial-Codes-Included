@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ Building an A2A-Compliant Random Number Agent: A Step-by-Step Guide to Implementing the Low-Level Executor Pattern with Python [Codes](https://github.com/Marktechpost/AI-Notebooks/tree/main/A2A_Simple_Agent) [Tutorial](https://www.marktechpost.com/2025/06/21/building-an-a2a-compliant-random-number-agent-a-step-by-step-guide-to-implementing-the-low-level-executor-pattern-with-python/)
+
 ▶ How to Build an Advanced BrightData Web Scraper with Google Gemini for AI-Powered Data Extraction [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Enhanced_BrightData_Gemini_Scraper_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/18/how-to-build-an-advanced-brightdata-web-scraper-with-google-gemini-for-ai-powered-data-extraction/)
 
 ▶ Build an Intelligent Multi-Tool AI Agent Interface Using Streamlit for Seamless Real-Time Interaction [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/streamlit_ai_agent_multitool_interface_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/20/build-an-intelligent-multi-tool-ai-agent-interface-using-streamlit-for-seamless-real-time-interaction/)
