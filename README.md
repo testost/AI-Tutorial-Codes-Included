@@ -65,6 +65,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Build a Groundedness Verification Tool Using Upstage API and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Upstage_Groundedness_Check_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/build-a-groundedness-verification-tool-using-upstage-api-and-langchain/)
+
 ▶ A Coding Guide to Build a Production-Ready Asynchronous Python SDK with Rate Limiting, In-Memory Caching, and Authentication [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_async_python_sdk_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/23/a-coding-guide-to-build-a-production-ready-asynchronous-python-sdk-with-rate-limiting-in-memory-caching-and-authentication/)
 
 ▶ Building High-Performance Financial Analytics Pipelines with Polars: Lazy Evaluation, Advanced Expressions, and SQL Integration [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/polars_sql_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/17/building-high-performance-financial-analytics-pipelines-with-polars-lazy-evaluation-advanced-expressions-and-sql-integration/)
