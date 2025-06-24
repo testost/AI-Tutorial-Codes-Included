@@ -65,6 +65,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Getting Started with Microsoft’s Presidio: A Step-by-Step Guide to Detecting and Anonymizing Personally Identifiable Information PII in Text [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Presidio.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/getting-started-with-microsofts-presidio-a-step-by-step-guide-to-detecting-and-anonymizing-personally-identifiable-information-pii-in-text/)
+
 ▶ Build a Groundedness Verification Tool Using Upstage API and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Upstage_Groundedness_Check_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/build-a-groundedness-verification-tool-using-upstage-api-and-langchain/)
 
 ▶ A Coding Guide to Build a Production-Ready Asynchronous Python SDK with Rate Limiting, In-Memory Caching, and Authentication [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/advanced_async_python_sdk_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/23/a-coding-guide-to-build-a-production-ready-asynchronous-python-sdk-with-rate-limiting-in-memory-caching-and-authentication/)
