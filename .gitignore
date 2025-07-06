@@ -1,0 +1,3 @@
+# Ignore MLflow logs and environment variables
+MLFlow for LLM Evaluation/OpenAI Tracing/mlruns/
+MLFlow for LLM Evaluation/OpenAI Tracing/.env
