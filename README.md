@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ Getting Started with Agent Communication Protocol (ACP): Build a Weather Agent with Python [Codes](https://github.com/Marktechpost/AI-Notebooks/tree/main/Agent%20Communication%20Protocol/Getting%20Started) [Tutorial](https://www.marktechpost.com/2025/07/06/getting-started-with-agent-communication-protocol-acp-build-a-weather-agent-with-python/)
+
 ▶ Build a Powerful Multi-Tool AI Agent Using Nebius with Llama 3 and Real-Time Reasoning Tools [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/nebius_llama3_multitool_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/27/build-a-powerful-multi-tool-ai-agent-using-nebius-with-llama-3-and-real-time-reasoning-tools/)
 
 ▶ Building Production-Ready Custom AI Agents for Enterprise Workflows with Monitoring, Orchestration, and Scalability [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/production_ready_custom_ai_agents_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/22/building-production-ready-custom-ai-agents-for-enterprise-workflows-with-monitoring-orchestration-and-scalability/)
