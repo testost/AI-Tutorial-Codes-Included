@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ Implementing a Tool-Enabled Multi-Agent Workflow with Python, OpenAI API, and PrimisAI Nexus [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/primisai_nexus_multi_agent_workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/07/implementing-a-tool-enabled-multi-agent-workflow-with-python-openai-api-and-primisai-nexus/)
+
 ▶ Getting Started with Agent Communication Protocol (ACP): Build a Weather Agent with Python [Codes](https://github.com/Marktechpost/AI-Notebooks/tree/main/Agent%20Communication%20Protocol/Getting%20Started) [Tutorial](https://www.marktechpost.com/2025/07/06/getting-started-with-agent-communication-protocol-acp-build-a-weather-agent-with-python/)
 
 ▶ Build a Powerful Multi-Tool AI Agent Using Nebius with Llama 3 and Real-Time Reasoning Tools [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/nebius_llama3_multitool_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/27/build-a-powerful-multi-tool-ai-agent-using-nebius-with-llama-3-and-real-time-reasoning-tools/)
