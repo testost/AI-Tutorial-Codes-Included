@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Guide to Build an AI Code-Analysis Agent with Griffe [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/griffe_ai_code_analyzer_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/16/a-coding-guide-to-build-an-ai-code-analysis-agent-with-griffe/)
+
 ▶ A Code Implementation for Designing Intelligent Multi-Agent Workflows with the BeeAI Framework [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/beeai_multi_agent_workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/07/a-code-implementation-for-designing-intelligent-multi-agent-workflows-with-the-beeai-framework/)
 
 ▶ Implementing a Tool-Enabled Multi-Agent Workflow with Python, OpenAI API, and PrimisAI Nexus [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/primisai_nexus_multi_agent_workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/07/implementing-a-tool-enabled-multi-agent-workflow-with-python-openai-api-and-primisai-nexus/)
