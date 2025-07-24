@@ -11,6 +11,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Coding Guide to Build a Tool-Calling ReAct Agent Fusing Prolog Logic with Gemini and LangGraph [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/prolog_gemini_langgraph_react_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/24/a-coding-guide-to-build-a-tool-calling-react-agent-fusing-prolog-logic-with-gemini-and-langgraph/)
+
 ▶ A Coding Guide to Build an AI Code-Analysis Agent with Griffe [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/griffe_ai_code_analyzer_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/16/a-coding-guide-to-build-an-ai-code-analysis-agent-with-griffe/)
 
 ▶ A Code Implementation for Designing Intelligent Multi-Agent Workflows with the BeeAI Framework [Codes](https://github.com/Marktechpost/AI-Notebooks/blob/main/beeai_multi_agent_workflow_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/07/a-code-implementation-for-designing-intelligent-multi-agent-workflows-with-the-beeai-framework/)
