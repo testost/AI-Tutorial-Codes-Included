@@ -85,6 +85,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Building an End-to-End Object Tracking and Analytics System with Roboflow Supervision [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/roboflow_supervision_advanced_tracking_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/03/building-an-end-to-end-object-tracking-and-analytics-system-with-roboflow-supervision/)
+
 ▶ Getting Started with Microsoft’s Presidio: A Step-by-Step Guide to Detecting and Anonymizing Personally Identifiable Information PII in Text [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Presidio.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/getting-started-with-microsofts-presidio-a-step-by-step-guide-to-detecting-and-anonymizing-personally-identifiable-information-pii-in-text/)
 
 ▶ Build a Groundedness Verification Tool Using Upstage API and LangChain [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Upstage_Groundedness_Check_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/06/24/build-a-groundedness-verification-tool-using-upstage-api-and-langchain/)
