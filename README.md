@@ -13,6 +13,8 @@
 
 ### Agentic AI and Agents
 
+▶ Building a Multi-Agent Conversational AI Framework with Microsoft AutoGen and Gemini API [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/gemini_autogen_multiagent_framework_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/04/building-a-multi-agent-conversational-ai-framework-with-microsoft-autogen-and-gemini-api/)
+
 ▶ A Coding Guide to Build an Intelligent Conversational AI Agent with Agent Memory Using Cognee and Free Hugging Face Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Cognee_Agent_Tutorial_with_HuggingFace_Integration_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/31/a-coding-guide-to-build-an-intelligent-conversational-ai-agent-with-agent-memory-using-cognee-and-free-hugging-face-models/)
 
 ▶ A Coding Guide to Build a Scalable Multi-Agent System with Google ADK [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/advanced_google_adk_multi_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/07/30/a-coding-guide-to-build-a-scalable-multi-agent-system-with-google-adk/)
