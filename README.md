@@ -1,6 +1,13 @@
 🤝 Show your support - give a ⭐️ if you liked the content
 
-https://img.shields.io/badge/hello%20the%20message-8A2BE2
+<p align="center">
+  <a href="https://www.reddit.com/r/machinelearningnews/" target="_blank">
+    <img src="https://img.shields.io/badge/Join our%20ML%20Subreddit" alt="Read Docs">
+  </a>
+  <a href="https://github.com/example" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge" alt="GitHub Repo">
+  </a>
+</p>
 
 # AI-Tutorials/Implementations and Notebooks
 
