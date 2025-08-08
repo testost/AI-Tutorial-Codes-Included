@@ -1,5 +1,7 @@
 🤝 Show your support - give a ⭐️ if you liked the content
 
+https://img.shields.io/badge/Join%20our%20AI%20Newsletter?link=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmachinelearningnews%2F
+
 
 # AI-Tutorials/Implementations and Notebooks
 
