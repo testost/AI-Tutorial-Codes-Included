@@ -1,5 +1,7 @@
 🤝 Show your support - give a ⭐️ if you liked the content
 
+https://img.shields.io/badge/hello%20the%20message-8A2BE2
+
 # AI-Tutorials/Implementations and Notebooks
 
 ### Index 
