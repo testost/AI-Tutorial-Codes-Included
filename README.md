@@ -13,6 +13,8 @@
 
 ### Agentic AI and Agents
 
+▶ A Code Implementation to Build a Multi-Agent Research System with OpenAI Agents, Function Tools, Handoffs, and Session Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/openai_agents_multiagent_research_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/08/a-code-implementation-to-build-a-multi-agent-research-system-with-openai-agents-function-tools-handoffs-and-session-memory/)
+
 ▶ A Coding Implementation to Build a Self-Adaptive Goal-Oriented AI Agent Using Google Gemini and the SAGE Framework [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/sage_ai_agent_gemini_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/06/a-coding-implementation-to-build-a-self-adaptive-goal-oriented-ai-agent-using-google-gemini-and-the-sage-framework/)
 
 ▶ Building a Multi-Agent Conversational AI Framework with Microsoft AutoGen and Gemini API [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/gemini_autogen_multiagent_framework_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/04/building-a-multi-agent-conversational-ai-framework-with-microsoft-autogen-and-gemini-api/)
