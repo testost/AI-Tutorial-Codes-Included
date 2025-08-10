@@ -96,6 +96,8 @@
 
 ### LLMs and Other AI Section 
 
+▶ Using RouteLLM to Optimize LLM Usage [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/RouteLLM.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/10/using-routellm-to-optimize-llm-usage/)
+
 ▶ Tutorial: Exploring SHAP-IQ Visualizations[Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/SHAP-IQ/SHAP_IQ_Visuals.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/03/tutorial-exploring-shap-iq-visualizations/)
 
 ▶ Building an End-to-End Object Tracking and Analytics System with Roboflow Supervision [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/roboflow_supervision_advanced_tracking_analytics_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/03/building-an-end-to-end-object-tracking-and-analytics-system-with-roboflow-supervision/)
