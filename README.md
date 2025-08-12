@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/cipher_memory_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/11/building-a-secure-and-memory-enabled-cipher-workflow-for-ai-agents-with-dynamic-llm-selection-and-api-integration/)
+
 ▶ A Developer’s Guide to OpenAI’s GPT-5 Model Capabilities [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/GPT_5.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/08/a-developers-guide-to-openais-gpt-5-model-capabilities/)
 
 ▶ Building an Advanced PaperQA2 Research Agent with Google Gemini for Scientific Literature Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/paperqa2_gemini_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/09/building-an-advanced-paperqa2-research-agent-with-google-gemini-for-scientific-literature-analysis/)
