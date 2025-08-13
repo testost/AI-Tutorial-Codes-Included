@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ An Implementation Guide to Build a Modular Conversational AI Agent with Pipecat and HuggingFace [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/pipecat_huggingface_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/13/an-implementation-guide-to-build-a-modular-conversational-ai-agent-with-pipecat-and-huggingface/)
+
 ▶ Building a Secure and Memory-Enabled Cipher Workflow for AI Agents with Dynamic LLM Selection and API Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/cipher_memory_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/11/building-a-secure-and-memory-enabled-cipher-workflow-for-ai-agents-with-dynamic-llm-selection-and-api-integration/)
 
 ▶ A Developer’s Guide to OpenAI’s GPT-5 Model Capabilities [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/GPT_5.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/08/a-developers-guide-to-openais-gpt-5-model-capabilities/)
