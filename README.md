@@ -98,7 +98,9 @@
 
 ---
 
-### LLMs and Other AI Section 
+### LLMs and Other AI Section
+
+▶ How to Test an OpenAI Model Against Single-Turn Adversarial Attacks Using deepteam [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/Single-Turn%20Attacks.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/how-to-test-an-openai-model-against-single-turn-adversarial-attacks-using-deepteam/)
 
 ▶ Using RouteLLM to Optimize LLM Usage [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/RouteLLM.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/10/using-routellm-to-optimize-llm-usage/)
 
