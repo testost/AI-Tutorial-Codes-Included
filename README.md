@@ -92,6 +92,8 @@
 
 ▶ Building an MCP-Powered AI Agent with Gemini and mcp-agent Framework: A Step-by-Step Implementation Guide [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/mcp_gemini_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/)
 
+▶ Creating Dashboards Using Vizro MCP: Vizro is an Open-Source Python Toolkit by McKinsey [Tutorial](https://www.marktechpost.com/2025/08/18/creating-dashboards-using-vizro-mcp-vizro-is-an-open-source-python-toolkit-by-mckinsey/)
+
 ▶ A Step-by-Step Coding Guide to Defining Custom Model Context Protocol (MCP) Server and Client Tools with FastMCP and Integrating Them into Google Gemini 2.0’s Function‑Calling Workflow [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/custom_mcp_tools_integration_with_fastmcp_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/04/21/a-step-by-step-coding-guide-to-defining-custom-model-context-protocol-mcp-server-and-client-tools-with-fastmcp-and-integrating-them-into-google-gemini-2-0s-function%e2%80%91calling-workflow/)
 
 ▶ A Code Implementation to Building a Context-Aware AI Assistant in Google Colab Using LangChain, LangGraph, Gemini Pro, and Model Context Protocol (MCP) Principles with Tool Integration Support [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/Context_Aware_Assistant_MCP_Gemini_LangChain_LangGraph_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/04/04/a-code-implementation-to-building-a-context-aware-ai-assistant-in-google-colab-using-langchain-langgraph-gemini-pro-and-model-context-protocol-mcp-principles-with-tool-integration-support/)
