@@ -104,6 +104,8 @@
 
 ### LLMs and Other AI Section
 
+▶ A Coding Implementation to Build a Complete Self-Hosted LLM Workflow with Ollama, REST API, and Gradio Chat Interface [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/self_hosted_llm_ollama_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/19/a-coding-implementation-to-build-a-complete-self-hosted-llm-workflow-with-ollama-rest-api-and-gradio-chat-interface/)
+
 ▶ How to Test an OpenAI Model Against Single-Turn Adversarial Attacks Using deepteam [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/Single-Turn%20Attacks.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/how-to-test-an-openai-model-against-single-turn-adversarial-attacks-using-deepteam/)
 
 ▶ Using RouteLLM to Optimize LLM Usage [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/GPT-5/RouteLLM.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/10/using-routellm-to-optimize-llm-usage/)
