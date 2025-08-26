@@ -14,7 +14,7 @@
 
 ### Agentic AI and Agents
 
-▶ A Full Code Implementation to Design a Graph-Structured AI Agent with Gemini for Task Planning, Retrieval, Computation, and Self-Critique [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/graphagent_gemini_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/23/a-full-code-implementation-to-design-a-graph-structured-ai-agent-with-gemini-for-task-planning-retrieval-computation-and-self-critique/)
+▶ A Full Code Implementation to Design a Graph-Structured AI Agent with Gemini for Task Planning, Retrieval, Computation, and Self-Critique [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/graphagent_gemini_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/23/a-full-code-implementation-to-design-a-graph-structured-ai-agent-with-gemini-for-task-planning-retrieval-computation-and-self-critique/)
 
 ▶ An Implementation Guide to Build a Modular Conversational AI Agent with Pipecat and HuggingFace [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/pipecat_huggingface_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/13/an-implementation-guide-to-build-a-modular-conversational-ai-agent-with-pipecat-and-huggingface/)
 
