@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Multi-Round Deep Research Agent with Gemini, DuckDuckGo API, and Automated Reporting? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/deep_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/)
+
 ▶ A Full Code Implementation to Design a Graph-Structured AI Agent with Gemini for Task Planning, Retrieval, Computation, and Self-Critique [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/graphagent_gemini_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/23/a-full-code-implementation-to-design-a-graph-structured-ai-agent-with-gemini-for-task-planning-retrieval-computation-and-self-critique/)
 
 ▶ Building a Reliable End-to-End Machine Learning Pipeline Using MLE-Agent and Ollama Locally [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/mle_agent_ollama_local_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/25/building-a-reliable-end-to-end-machine-learning-pipeline-using-mle-agent-and-ollama-locally/)
