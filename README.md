@@ -7,7 +7,7 @@
 
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
-* [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#llms-and-other-ai-section)
+* [LLMs, ML and Other AI Section](https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/)
 
 ---
   
