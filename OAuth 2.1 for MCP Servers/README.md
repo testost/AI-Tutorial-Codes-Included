@@ -85,4 +85,4 @@ The MCP authorization specification includes **several important security upgrad
 
 ## 🚀 How to Implement OAuth 2.1 for MCP Servers  
 
-In the next section of the article, we’ll create a **simple finance sentiment analysis server** and implement **authorization using Scalekit**, a platform that **simplifies the entire OAuth 2.1 process**.
+You can refer to the codes in this section to create a **simple finance sentiment analysis server** and implement **authorization using Scalekit**, a platform that **simplifies the entire OAuth 2.1 process**.
