@@ -5,6 +5,8 @@ According to the official documentation, **authorization servers must implement 
 
 MCP provides **authorization at the transport level**, allowing clients to securely access restricted servers on behalf of resource owners. OAuth 2.1 was chosen as the framework for MCP because it offers a **modern, secure, and standardized approach** to managing authorization.
 
+<img width="619" height="215" alt="image" src="https://github.com/user-attachments/assets/6693a3a8-7807-4837-bb21-7b47bacd9390" />
+
 ---
 
 ## ⚙️ How the Authorization Flow Works
@@ -51,6 +53,7 @@ With the **access token** in hand:
 Every interaction is **logged for auditing and compliance**, ensuring security and traceability.
 
 ---
+<img width="723" height="692" alt="image" src="https://github.com/user-attachments/assets/974e44e0-38b6-4c21-8e37-ef4b28891db8" />
 
 **Source:** [MCP Authorization Spec](https://modelcontextprotocol.io/specification/draft/basic/authorization)
 
@@ -71,7 +74,6 @@ The MCP authorization specification includes **several important security upgrad
 - **⏳ Short-Lived Tokens**  
   Tokens are issued with **short lifespans** to minimize risk in case they are leaked or compromised.
 
--
 - **🛠️ Granular Scope Model**  
   MCP OAuth 2.1 uses **fine-grained scopes** to control permissions:  
   - `mcp:tools:weather` – Access to weather tools only  
