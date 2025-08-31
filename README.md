@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Conversational Research AI Agent with LangGraph: Step Replay and Time-Travel Checkpoints [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/langgraph_time_travel_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/how-to-build-a-conversational-research-ai-agent-with-langgraph-step-replay-and-time-travel-checkpoints/)
+
 ▶ How to Build a Multi-Round Deep Research Agent with Gemini, DuckDuckGo API, and Automated Reporting? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/deep_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/)
 
 ▶ A Coding Guide to Building a Brain-Inspired Hierarchical Reasoning AI Agent with Hugging Face Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/hrm_braininspired_ai_agent_huggingface_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/30/a-coding-guide-to-building-a-brain-inspired-hierarchical-reasoning-ai-agent-with-hugging-face-models/)
