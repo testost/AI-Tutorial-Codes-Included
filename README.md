@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ Step-by-Step Guide to AI Agent Development Using Microsoft Agent-Lightning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agent_lightning_prompt_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/step-by-step-guide-to-ai-agent-development-using-microsoft-agent-lightning/)
+
 ▶ How to Build a Conversational Research AI Agent with LangGraph: Step Replay and Time-Travel Checkpoints [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/langgraph_time_travel_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/how-to-build-a-conversational-research-ai-agent-with-langgraph-step-replay-and-time-travel-checkpoints/)
 
 ▶ How to Build a Multi-Round Deep Research Agent with Gemini, DuckDuckGo API, and Automated Reporting? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/deep_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/)
