@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Create a Bioinformatics AI Agent Using Biopython for DNA and Protein Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Bioinformatics%20AI%20Agent%20with%20Biopython) [Tutorial](https://www.marktechpost.com/2025/09/07/how-to-create-a-bioinformatics-ai-agent-using-biopython-for-dna-and-protein-analysis/)
+
 ▶ Step-by-Step Guide to AI Agent Development Using Microsoft Agent-Lightning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agent_lightning_prompt_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/step-by-step-guide-to-ai-agent-development-using-microsoft-agent-lightning/)
 
 ▶ How to Build an Advanced AI Agent with Summarized Short-Term and Vector-Based Long-Term Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Advanced%20AI%20Agent%20with%20Summarized%20Short%20Term%20and%20Vector-Based%20LongTerm%20Memory) [Tutorial](https://www.marktechpost.com/2025/09/02/how-to-build-an-advanced-ai-agent-with-summarized-short-term-and-vector-based-long-term-memory/)
