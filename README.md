@@ -14,6 +14,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Complete Multi-Domain AI Web Agent Using Notte and Gemini [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Build%20a%20Complete%20Multi-Domain%20AI%20Web%20Agent%20Using%20Notte%20and%20Gemini) [Tutorial](https://www.marktechpost.com/2025/09/08/how-to-build-a-complete-multi-domain-ai-web-agent-using-notte-and-gemini/)
+
 ▶ How to Create a Bioinformatics AI Agent Using Biopython for DNA and Protein Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Bioinformatics%20AI%20Agent%20with%20Biopython) [Tutorial](https://www.marktechpost.com/2025/09/07/how-to-create-a-bioinformatics-ai-agent-using-biopython-for-dna-and-protein-analysis/)
 
 ▶ Step-by-Step Guide to AI Agent Development Using Microsoft Agent-Lightning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agent_lightning_prompt_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/step-by-step-guide-to-ai-agent-development-using-microsoft-agent-lightning/)
