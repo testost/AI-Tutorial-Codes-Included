@@ -8,6 +8,7 @@
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
 * [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
+* [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
 
 ---
   
@@ -157,3 +158,5 @@
 ▶ Step-by-Step Guide to Creating Synthetic Data Using the Synthetic Data Vault (SDV)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/AutoGen_TeamTool_RoundRobin_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/25/step-by-step-guide-to-creating-synthetic-data-using-the-synthetic-data-vault-sdv/)
 
 ▶ Creating a Knowledge Graph Using an LLM  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/Mirascope) [Tutorial](https://www.marktechpost.com/2025/07/28/creating-a-knowledge-graph-using-an-llm/)
+
+### Voice AI
