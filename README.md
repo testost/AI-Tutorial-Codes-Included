@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ Building Advanced MCP (Model Context Protocol) Agents with Multi-Agent Coordination, Context Awareness, and Gemini Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Building%20Advanced%20MCP%20Agents%20with%20Multi-Agent%20Coordination.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/10/building-advanced-mcp-model-context-protocol-agents-with-multi-agent-coordination-context-awareness-and-gemini-integration/)
+
 ▶ How to Build a Complete Multi-Domain AI Web Agent Using Notte and Gemini [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Build%20a%20Complete%20Multi-Domain%20AI%20Web%20Agent%20Using%20Notte%20and%20Gemini) [Tutorial](https://www.marktechpost.com/2025/09/08/how-to-build-a-complete-multi-domain-ai-web-agent-using-notte-and-gemini/)
 
 ▶ How to Create a Bioinformatics AI Agent Using Biopython for DNA and Protein Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Bioinformatics%20AI%20Agent%20with%20Biopython) [Tutorial](https://www.marktechpost.com/2025/09/07/how-to-create-a-bioinformatics-ai-agent-using-biopython-for-dna-and-protein-analysis/)
