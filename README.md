@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Multilingual OCR AI Agent in Python with EasyOCR and OpenCV [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/advanced_ocr_ai_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/12/how-to-build-a-multilingual-ocr-ai-agent-in-python-with-easyocr-and-opencv/)
+
 ▶ Building Advanced MCP (Model Context Protocol) Agents with Multi-Agent Coordination, Context Awareness, and Gemini Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Building%20Advanced%20MCP%20Agents%20with%20Multi-Agent%20Coordination.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/10/building-advanced-mcp-model-context-protocol-agents-with-multi-agent-coordination-context-awareness-and-gemini-integration/)
 
 ▶ How to Build a Complete Multi-Domain AI Web Agent Using Notte and Gemini [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Build%20a%20Complete%20Multi-Domain%20AI%20Web%20Agent%20Using%20Notte%20and%20Gemini) [Tutorial](https://www.marktechpost.com/2025/09/08/how-to-build-a-complete-multi-domain-ai-web-agent-using-notte-and-gemini/)
