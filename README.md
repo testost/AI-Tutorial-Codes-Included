@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Intelligent AI Desktop Automation Agent with Natural Language Commands and Interactive Simulation? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/ai_desktop_automation_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/26/how-to-build-an-intelligent-ai-desktop-automation-agent-with-natural-language-commands-and-interactive-simulation/)
+
 ▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
 
 ▶ How to Create Reliable Conversational AI Agents Using Parlant? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/parlant.py) [Tutorial](https://www.marktechpost.com/2025/09/22/how-to-create-reliable-conversational-ai-agents-using-parlant/)
