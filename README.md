@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build an Advanced Agentic Retrieval-Augmented Generation (RAG) System with Dynamic Strategy and Smart Retrieval? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_rag_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/how-to-build-an-advanced-agentic-retrieval-augmented-generation-rag-system-with-dynamic-strategy-and-smart-retrieval/)
+
 ▶ A Coding Guide to Build a Hierarchical Supervisor Agent Framework with CrewAI and Google Gemini for Coordinated Multi-Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/supervisor_framework_crewai_gemini_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/a-coding-guide-to-build-a-hierarchical-supervisor-agent-framework-with-crewai-and-google-gemini-for-coordinated-multi-agent-workflows/)
 
 ▶ How to Build an Intelligent AI Desktop Automation Agent with Natural Language Commands and Interactive Simulation? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/ai_desktop_automation_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/26/how-to-build-an-intelligent-ai-desktop-automation-agent-with-natural-language-commands-and-interactive-simulation/)
