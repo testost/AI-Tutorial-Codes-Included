@@ -179,6 +179,8 @@
 
 ### Voice AI
 
+▶ How to Build an Advanced Voice AI Pipeline with WhisperX for Transcription, Alignment, Analysis, and Export? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Voice%20AI/voice_ai_whisperx_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/02/how-to-build-an-advanced-voice-ai-pipeline-with-whisperx-for-transcription-alignment-analysis-and-export/)
+
 ▶ Building a Speech Enhancement and Automatic Speech Recognition (ASR) Pipeline in Python Using SpeechBrain  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/guide_to_building_an_end_to_end_speech_enhancement_and_recognition_pipeline_with_speechbrain.py) [Tutorial](https://www.marktechpost.com/2025/09/09/building-a-speech-enhancement-and-automatic-speech-recognition-asr-pipeline-in-python-using-speechbrain/)
 
 ▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
