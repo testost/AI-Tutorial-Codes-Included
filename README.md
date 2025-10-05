@@ -141,6 +141,8 @@
 
 ### LLMs,ML and Other AI Section
 
+▶ A Coding Implementation to Build a Transformer-Based Regression Language Model to Predict Continuous Values from Text [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/regression_language_model_transformer_rlm_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/04/a-coding-implementation-to-build-a-transformer-based-regression-language-model-to-predict-continuous-values-from-text/)
+
 ▶ Building and Optimizing Intelligent Machine Learning Pipelines with TPOT for Complete Automation and Performance Enhancement [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/tpot_advanced_pipeline_optimization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/)
 
 ▶ A Coding Implementation to Build a Complete Self-Hosted LLM Workflow with Ollama, REST API, and Gradio Chat Interface [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/self_hosted_llm_ollama_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/19/a-coding-implementation-to-build-a-complete-self-hosted-llm-workflow-with-ollama-rest-api-and-gradio-chat-interface/)
