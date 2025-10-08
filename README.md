@@ -15,6 +15,8 @@
 
 ### Agentic AI and Agents
 
+▶ An Intelligent Conversational Machine Learning Pipeline Integrating LangChain Agents and XGBoost for Automated Data Science Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/LangChain_XGBoost_Agentic_Pipeline_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/10/07/an-intelligent-conversational-machine-learning-pipeline-integrating-langchain-agents-and-xgboost-for-automated-data-science-workflows/)
+
 ▶ How to Build an Advanced Agentic Retrieval-Augmented Generation (RAG) System with Dynamic Strategy and Smart Retrieval? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_rag_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/how-to-build-an-advanced-agentic-retrieval-augmented-generation-rag-system-with-dynamic-strategy-and-smart-retrieval/)
 
 ▶ A Coding Guide to Build a Hierarchical Supervisor Agent Framework with CrewAI and Google Gemini for Coordinated Multi-Agent Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/supervisor_framework_crewai_gemini_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/09/30/a-coding-guide-to-build-a-hierarchical-supervisor-agent-framework-with-crewai-and-google-gemini-for-coordinated-multi-agent-workflows/)
